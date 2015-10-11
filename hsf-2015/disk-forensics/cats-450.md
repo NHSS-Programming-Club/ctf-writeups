@@ -2,8 +2,6 @@ HSF Cats - Disk Forensics (450 pts)
 ==================================
 *Writeup by team Arxenix from NHSS*
 
-Problem Description
--------------------
 Hint: I had fun once, it was horrible. Password: F3lyn34LifE!"
 
 First Steps
